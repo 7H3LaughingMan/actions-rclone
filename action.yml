@@ -1,0 +1,6 @@
+name: 'Rclone'
+description: 'Rclone GitHub Action'
+author: '7H3LaughingMan'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
